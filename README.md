@@ -1,49 +1,49 @@
-- [ ] Base
-    - [ ] `login`
-    - [ ] `logout`
-    - [ ] `exit`
-    - [ ] `shutdown`
-    - [ ] `clear`
-    - [ ] `date`
-    - [ ] `cal`
-    - [ ] `echo`
-    - [ ] `who`
-    - [ ] `man`
-- [ ] Manejo de archivos
-    - [ ] Tipos
-        - [ ] Regulares
-        - [ ] Directorios
-        - [ ] Especiales
-        - [ ] Enlazados
-        - [ ] Tuberías
-    - [ ] Atributos
-    - [ ] I-nodos
-    - [ ] Operaciones
-        - [ ] Crear
-            - [ ] `touch`
-            - [ ] `nano` o `vi`
-            - [ ] `>` o `>>`
-        - [ ] Copiar
-            - [ ] `cp`
-        - [ ] Visualizar atributos
-            - [ ] `ls -l`
-        - [ ] Visualizar contenidos
-            - [ ] `cat`
-            - [ ] `more`
-            - [ ] `less`
-            - [ ] `head`
-            - [ ] `tail`
-        - [ ] Renombrar o mover
-            - [ ] `mv`
-        - [ ] Eliminar
-            - [ ] `rm`
-- [ ] Filtros
-    - [ ] `wc`
-    - [ ] `grep`
-    - [ ] `sort`
-    - [ ] `find`
-    - [ ] `cut`
-    - [ ] `tr`
+- [x] Base
+    - [x] `login`
+    - [x] `logout`
+    - [x] `exit`
+    - [x] `shutdown`
+    - [x] `clear`
+    - [x] `date`
+    - [x] `cal`
+    - [x] `echo`
+    - [x] `who`
+    - [X] `man`
+- [x] Manejo de archivos
+    - [x] Tipos
+        - [x] Regulares
+        - [x] Directorios
+        - [x] Especiales
+        - [x] Enlazados
+        - [x] Tuberías
+    - [x] Atributos
+    - [x] I-nodos
+    - [x] Operaciones
+        - [x] Crear
+            - [x] `touch`
+            - [x] `nano` o `vi`
+            - [x] `>` o `>>`
+        - [x] Copiar
+            - [x] `cp`
+        - [x] Visualizar atributos
+            - [x] `ls -l`
+        - [x] Visualizar contenidos
+            - [x] `cat`
+            - [x] `more`
+            - [x] `less`
+            - [x] `head`
+            - [x] `tail`
+        - [x] Renombrar o mover
+            - [x] `mv`
+        - [x] Eliminar
+            - [x] `rm`
+- [x] Filtros
+    - [x] `wc`
+    - [x] `grep`
+    - [x] `sort`
+    - [x] `find`
+    - [x] `cut`
+    - [x] `tr`
 - [ ] Manejo de directorios
     - [ ] Directorios comunes
         - [ ] `/bin`
@@ -55,30 +55,30 @@
         - [ ] `/media`
         - [ ] `/mnt`
         - [ ] ...
-    - [ ] Directorio de conexión
-    - [ ] Directorio de trabajo
-    - [ ] Rutas
-        - [ ] Relativas
-        - [ ] Directorio raíz
-        - [ ] Absolutas
-    - [ ] Operaciones
-        - [ ] Moverse
-            - [ ] `pwd`
-            - [ ] `cd`
-        - [ ] Desenlazar
-            - [ ] `rm`
-        - [ ] Crear
-            - [ ] `mkdir`
-        - [ ] Eliminar
-            - [ ] `rmdir`
-            - [ ] `rm`
-        - [ ] Renombrar o mover
-            - [ ] `mv`
-        - [ ] Enlazar
-            - [ ] `ln`
-    - [ ] Enlaces
-        - [ ] Duros
-        - [ ] Simbólicos
+    - [X] Directorio de conexión
+    - [X] Directorio de trabajo
+    - [X] Rutas
+        - [x] Relativas
+        - [x] Directorio raíz
+        - [x] Absolutas
+    - [X] Operaciones
+        - [x] Moverse
+            - [x] `pwd`
+            - [x] `cd`
+        - [x] Desenlazar
+            - [x] `rm`
+        - [x] Crear
+            - [x] `mkdir`
+        - [x] Eliminar
+            - [x] `rmdir`
+            - [x] `rm`
+        - [x] Renombrar o mover
+            - [x] `mv`
+        - [x] Enlazar
+            - [x] `ln`
+    - [x] Enlaces
+        - [x] Duros
+        - [x] Simbólicos
 - [ ] Discos
     - [ ] Particiones
     - [ ] Operaciones
