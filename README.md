@@ -44,17 +44,17 @@
     - [x] `find`
     - [x] `cut`
     - [x] `tr`
-- [ ] Manejo de directorios
-    - [ ] Directorios comunes
-        - [ ] `/bin`
-        - [ ] `/boot`
-        - [ ] `/dev`
-        - [ ] `/etc`
-        - [ ] `/home`
-        - [ ] `/lib`
-        - [ ] `/media`
-        - [ ] `/mnt`
-        - [ ] ...
+- [x] Manejo de directorios
+    - [x] Directorios comunes
+        - [x] `/bin`
+        - [x] `/boot`
+        - [x] `/dev`
+        - [x] `/etc`
+        - [x] `/home`
+        - [x] `/lib`
+        - [x] `/media`
+        - [x] `/mnt`
+        - [x] ...
     - [X] Directorio de conexión
     - [X] Directorio de trabajo
     - [X] Rutas
